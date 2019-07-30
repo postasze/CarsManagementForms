@@ -1,0 +1,24 @@
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\bin\Debug\Samochody.exe
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\bin\Debug\Samochody.pdb
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\Samochody.Properties.Resources.resources
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\Samochody.csproj.GenerateResource.Cache
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\Samochody.exe
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\Samochody.pdb
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\Samochody.Document.resources
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\Samochody.MDIParent.resources
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\Samochody.CarAddWindow.resources
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\Samochody.CarEditWindow.resources
+C:\Users\Komputer\Documents\Visual Studio 2008\Projects\Samochody\Samochody\obj\Debug\Samochody.CarRemoveWindow.resources
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.exe
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.pdb
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\bin\Debug\Samochody.exe
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\bin\Debug\Samochody.pdb
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.CarAddWindow.resources
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.CarEditWindow.resources
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.CarRemoveWindow.resources
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.Document.resources
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.MDIParent.resources
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.Properties.Resources.resources
+C:\Users\Pawel\Desktop\Studia\projekty\Samochody\Samochody\obj\Debug\Samochody.csproj.GenerateResource.Cache
